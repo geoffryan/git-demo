@@ -1,0 +1,19 @@
+#Basic gitignore file
+
+# Compiled binaries
+bin/*
+
+# C object files
+*.o
+
+# Compiled Python files
+*.pyc
+
+# OSX Junk
+.DS_Store
+
+# Latex
+*.log
+*.aux
+*.synctex.gz
+*.pdf
