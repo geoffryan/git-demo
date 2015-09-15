@@ -2,5 +2,5 @@
 
 double myfunc(double x)
 {
-    return x*x + 3.0;
+    return x*x + 1.0;
 }
